@@ -13,9 +13,10 @@ const Home = () => {
 
       <div className="card w-full max-w-md bg-base-100 shadow-xl">
         <div className="card-body items-center text-center">
-          <h1 className="card-title text-3xl font-bold mb-2">No Hunger</h1>
+          <h1 className="card-title text-3xl font-bold mb-2">ShareBite </h1>
           <p className="text-base-content/70 mb-6">
-            Discover delicious meals with what you have
+            Sharing food, reducing waste Discover delicious meals with what you
+            have
           </p>
 
           <div className="divider">Choose an option</div>
@@ -148,7 +149,7 @@ const Home = () => {
       {/* Footer */}
       <footer className="footer footer-center p-4 mt-12 text-base-content">
         <div>
-          <p>© 2025 No Hunger - All rights reserved</p>
+          <p>© 2025 ShareBite - All rights reserved</p>
         </div>
       </footer>
     </div>
