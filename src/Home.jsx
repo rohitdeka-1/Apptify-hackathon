@@ -5,7 +5,7 @@ const Home = () => {
         <div className="flex justify-center mb-8 mt-8">
           <div className="avatar">
             <div className="w-24 rounded-full ring ring-primary ring-offset-base-100 ring-offset-2 bg-white p-2 shadow-lg">
-              <img src="/src/logo.png"></img>
+              <img src="./logo.png"></img>
             </div>
           </div>
         </div>
@@ -13,7 +13,7 @@ const Home = () => {
 
       <div className="card w-full max-w-md bg-base-100 shadow-xl">
         <div className="card-body items-center text-center">
-          <h1 className="card-title text-3xl font-bold mb-2">ShareBite </h1>
+          <h1 className="card-title text-3xl font-bold mb-2">ShareBite</h1>
           <p className="text-base-content/70 mb-6">
             Sharing food, reducing waste Discover delicious meals with what you
             have
